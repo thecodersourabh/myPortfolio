@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 💻 Experienced with microservices, serverless architecture, cloud-first architecture, and REST APIs  
 👨‍💻 Tech Lead | Tech Mentor | Solution Designer  
 
--------
 
 ## 🧠 Skills
 - Backend: .NET Core, Web API, Entity Framework, AWS, REST
@@ -15,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 - Database: MongoDB, SQL Server, LINQ, Stored Procedures
 - Tools: Git, Azure DevOps, Postman, Swagger, Visual Studio, VS Code
   
------
+
   ## 🛠️ Technologies & Tools
 
 - **Languages**: [Python, C#, TypeScript]
@@ -23,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 - **DevOps**: [Docker, Kubernetes, CI/CD]
 - **Other Tools**: [Git, VSCode, Visual Studio]
 
----
+
 
 ## 📈 GitHub Stats
 
