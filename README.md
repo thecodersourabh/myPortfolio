@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer, open-source enthusiast
 - Tools: Git, Azure DevOps, Postman, Swagger, Visual Studio, VS Code
   
 
-  ## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 - **Languages**: [Python, C#, TypeScript]
 - **Frameworks & Libraries**: [React, Angular, Node]
