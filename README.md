@@ -1,8 +1,8 @@
 # Hi, I'm Sourabh (SJ) 👋
 
 🚀 10+ years of experience in full-stack software development  
-🔧 Pro in .NET | C# | .NET Core 8 | Angular 17 | SQL Server  
-💻 Experienced with microservices, cloud-first architecture, and REST APIs  
+🔧 Pro in .NET | C# | .NET Core 8 | React | Angular 17 | SQL Server  
+💻 Experienced with microservices, serverless architecture, cloud-first architecture, and REST APIs  
 👨‍💻 Former Team Lead | Tech Mentor | Solution Designer  
 
 ## 🧠 Skills
